@@ -22,10 +22,10 @@ Project is based on social engineering technique, means trying to manipulate tar
 
 - Can I find this app on playstore?
   			
-        For any app store you have to tell what that app does, and stalker will know. So I don't have any plan to upload it on any app store
+For any app store you have to tell what that app does, and stalker will know. So I don't have any plan to upload it on any app store
 -  Why code is not available on repository?
     		
-        I don't want google to index terms/strings used in app, otherwise stalker will google those and know directly what this app does.
+I don't want google to index terms/strings used in app, otherwise stalker will google those and know directly what this app does.
 
 
 ## Liked my work?
