@@ -1,4 +1,5 @@
-# stalker-finder - Find Cyber Bully or Stalker or Fraudster
+# stalker-finder
+### Find identity of Cyber Bully or Stalker or Fraudster or Blackmailer using Android App
 
 Project is based on social engineering technique, means trying to manipulate target user to give his/her personal information. When target user installs main.apk and follows instructions then details are received on admin.apk. Here dummy name "main.apk" of app is used because I don't want search engines to index name and flag this as virus. For instructions open admin.apk
 
